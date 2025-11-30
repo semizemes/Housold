@@ -10,7 +10,7 @@ function getPropertyHtml(arr = [placeholderPropertyObj]) {
       );
       return `
         <section class="card">
-				<img src="/images/${image}" alt="house for sold">
+				<img src="./images/${image}" alt="house for sold">
 				<div class="card-right">
 					<h2>${propertyLocation}</h2>
 					<h3>${priceGBP} GBP</h3>
