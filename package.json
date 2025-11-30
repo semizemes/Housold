@@ -1,0 +1,14 @@
+{
+  "name": "Housold",
+  "description": "Vite-based learning project demonstrating essential JavaScript concepts, examples, and daily exercises.",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
