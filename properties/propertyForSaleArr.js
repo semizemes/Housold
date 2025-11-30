@@ -1,4 +1,4 @@
-const propertyForSaleArr = [
+export default propertyForSaleArr = [
     {
         propertyLocation: 'Kensington, London',
         priceGBP: 890000,
